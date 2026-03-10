@@ -30,6 +30,10 @@ Principais características da UI:
   <img src="assets/Imagem2.png" width="45%">
 </p>
 
+<p align="center">
+  <img src="assets/demo.gif" width="90%">
+</p>
+
 ---
 
 # Arquitetura
