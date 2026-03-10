@@ -25,6 +25,11 @@ Principais características da UI:
 * Botão de novo chat
 * Indicador de processamento da IA
 
+<p align="center">
+  <img src="assets/Imagem1.png" width="45%">
+  <img src="assets/Imagem2.png" width="45%">
+</p>
+
 ---
 
 # Arquitetura
